@@ -1,0 +1,23 @@
+#class1{
+    width: 65%;
+    float: left;
+}
+
+.p1{
+    padding: 291px 0px;
+    font-size: 50px;
+    background-color: aliceblue;
+    color: navy;
+}
+
+#class2{
+    width: 65%;
+    float: right;
+}
+
+.p2{
+    padding: 291px 100px;
+    font-size: 50px;
+    background-color: aliceblue;
+    color: navy;
+}
